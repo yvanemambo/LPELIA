@@ -1,0 +1,20 @@
+{
+  "name": "lpelia-site",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "15.5.18",
+    "react": "19.0.6",
+    "react-dom": "19.0.6",
+    "lucide-react": "^0.468.0"
+  },
+  "devDependencies": {
+    "eslint": "^9.22.0",
+    "eslint-config-next": "15.5.18"
+  }
+}
